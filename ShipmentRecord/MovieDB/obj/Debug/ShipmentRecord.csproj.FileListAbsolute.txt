@@ -1,0 +1,79 @@
+D:\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+D:\WH QR Printer\MovieDB\obj\Debug\ShipmentRecord.csproj.GenerateResource.Cache
+D:\WH QR Printer\MovieDB\bin\Debug\Shipment_Record.exe.manifest
+D:\WH QR Printer\MovieDB\bin\Debug\Shipment_Record.application
+D:\WH QR Printer\MovieDB\bin\Debug\Shipment_Record.exe
+D:\WH QR Printer\MovieDB\bin\Debug\Shipment_Record.pdb
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.Properties.Resources.resources
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.exe.manifest
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.application
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.exe
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.pdb
+D:\WH QR Printer\MovieDB\obj\Debug\Shipment_Record.Form1.resources
+D:\WH QR Printer\MovieDB\obj\Debug\ShipmentRecord.csprojResolveAssemblyReference.cache
+D:\WH QR Printer\MovieDB\bin\Debug\Npgsql.dll
+D:\WH QR Printer\MovieDB\bin\Debug\Mono.Security.dll
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.exe
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.pdb
+D:\ShipmentRecord\MovieDB\bin\Debug\LKBSDK.dll
+D:\ShipmentRecord\MovieDB\bin\Debug\Shipment_Record.exe.manifest
+D:\ShipmentRecord\MovieDB\bin\Debug\Shipment_Record.application
+D:\ShipmentRecord\MovieDB\bin\Debug\Shipment_Record.exe
+D:\ShipmentRecord\MovieDB\bin\Debug\Shipment_Record.pdb
+D:\ShipmentRecord\MovieDB\bin\Debug\Npgsql.dll
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.Form1.resources
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.frmHistory.resources
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.Properties.Resources.resources
+D:\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.GenerateResource.Cache
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.exe.manifest
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.application
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.frmHistory_LS.resources
+D:\ShipmentRecord\MovieDB\obj\Debug\Shipment_Record.frmHistory_LD.resources
+D:\ShipmentRecord\MovieDB\bin\Debug\Shipment_Record.exe.config
+D:\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.ResolveComReference.cache
+D:\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.ResolveComReference.cache
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.GenerateResource.Cache
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe.config
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.Properties.Resources.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.application
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.pdb
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.Form1.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmDocument.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LAA.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LS.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LD.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory.resources
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.TrustInfo.xml
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.application
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.exe
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.pdb
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmAddDocument.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe.config
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.ResolveComReference.cache
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.exe
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.pdb
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.application
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.exe
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\bin\Debug\QA_Management.pdb
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csprojResolveAssemblyReference.cache
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.Form1.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmDocument.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LAA.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LS.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory_LD.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmHistory.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmAddDocument.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.Properties.Resources.resources
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\ShipmentRecord.csproj.GenerateResource.Cache
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.TrustInfo.xml
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.application
+D:\GIT_HUB\NCVP_PROJECT\ShipmentRecord\MovieDB\obj\Debug\QA_Management.frmUpdateDocument.resources

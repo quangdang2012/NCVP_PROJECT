@@ -1,0 +1,54 @@
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+Z:\(01)KK03\QA\(00)Public\03 OQC\00 Box Id DB\10.Source Code\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+D:\GIT HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+D:\GIT_HUB\NCVP_PROJECT\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <PublishUrlHistory>\\192.168.145.7\boxid\boxid_GR1\|\\192.168.145.7\boxid\boxid_LD\|http://192.168.145.7/boxid/boxid_LD/publish.html/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://192.168.145.7/boxid/boxid_GR1/|http://192.168.145.7/boxid/boxid_LD/|http://192.168.145.7/boxid/boxid_LD/publish.html/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ErrorReportUrlHistory />
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

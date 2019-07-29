@@ -1,0 +1,86 @@
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\bin\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\WH QR Printer v2\MovieDB\bin\Debug\WhQrPrinter.pdb
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+E:\Fujii\PQM\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+E:\Fujii\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+E:\Fujii\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+E:\Fujii\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+C:\Users\admin\Desktop\Projects\PQM\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+D:\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+D:\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.application
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.application
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.FormStart.resources
+D:\GIT_HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.NCVH.resources
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.pdb
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\LKBSDK.dll
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.application
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.exe
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\bin\Debug\WhQrPrinter.pdb
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.FormStart.resources
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.NCVH.resources
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Form1.resources
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.Properties.Resources.resources
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csproj.GenerateResource.Cache
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.application
+D:\GIT HUB\NCVP_PROJECT\WH QR Printer\MovieDB\obj\Debug\WhQrPrinter.csprojResolveAssemblyReference.cache

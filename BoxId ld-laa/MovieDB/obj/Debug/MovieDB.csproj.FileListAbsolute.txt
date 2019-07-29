@@ -1,0 +1,74 @@
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form2_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker_org\MovieDB\obj\Debug\MovieDB.Form4_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form4_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form2_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\Jig Tracker\MovieDB\obj\Debug\MovieDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form4_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form2_2.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\JIG DB\Jig DB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\Tester DB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form5.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form3.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form6.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form4.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\bin\Debug\BoxIdDB.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\bin\Debug\BoxIdDB.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\BoxIdDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\BoxIdDB.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\BoxIdDB.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId DB\MovieDB\obj\Debug\MovieDB.Form9.resources

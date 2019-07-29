@@ -1,0 +1,45 @@
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer - コピー\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\テスター\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\OQC\BoxId Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\OQC\Simple Print\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\BoxIdPrinter.exe
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\bin\Debug\BoxIdPrinter.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\NCVC WH Printer\MovieDB\obj\Debug\BoxIdPrinter.csproj.GenerateResource.Cache

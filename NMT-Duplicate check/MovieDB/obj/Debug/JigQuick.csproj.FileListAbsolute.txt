@@ -1,0 +1,142 @@
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmCoilAssy99.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmWithJig99.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmNoJig99.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\JigQuick.exe
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\JigQuick.pdb
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\EntityFramework.dll
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\Npgsql.dll
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\EntityFramework.xml
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.exe
+D:\NIDEC_MES\VCVP\NCVC\JigQuick 5.5 source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.exe
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\JigQuick.exe
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\JigQuick.pdb
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\EntityFramework.dll
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\Npgsql.dll
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\EntityFramework.xml
+D:\JigQuick 6.0 source code\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmCoilAssy99.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmWithJig99.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmNoJig99.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\JigQuick 6.0 source code\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.exe
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\GIT HUB\NCVC_GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\GIT HUB\NCVC_GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.exe
+D:\GIT HUB\NCVC_GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.exe
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.pdb
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.dll
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.xml
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.pdb
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.dll
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\Npgsql.dll
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.xml
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT_HUB\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe.config
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.exe
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.pdb
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.exe
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\JigQuick.pdb
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.dll
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.xml
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\NCVC_GIT\NCVC\JigQuickNTRS\JigQuickNTRS Source code\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.dll
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.xml
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.dll
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.xml
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.config
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.application
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.pdb
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.TrustInfo.xml
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe.manifest
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.application
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.pdb
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.config
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.pdb
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.application
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.pdb
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.TrustInfo.xml
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe.manifest
+D:\GIT HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.application
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.config
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.manifest
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.application
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.pdb
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.dll
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.xml
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csprojAssemblyReference.cache
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.cache
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CoreCompileInputs.cache
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.TrustInfo.xml
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe.manifest
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.application
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CopyComplete
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe
+D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.pdb
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csprojAssemblyReference.cache
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CoreCompileInputs.cache
+D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CopyComplete

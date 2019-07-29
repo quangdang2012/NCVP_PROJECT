@@ -1,0 +1,8 @@
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\bin\x86\Release\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\bin\x86\Release\MovieDB.pdb
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.Form1.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.Form2.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.exe
+C:\Users\takusuke.fujii\Desktop\JIG SCANNER\MovieDB\MovieDB\obj\x86\Release\MovieDB.pdb

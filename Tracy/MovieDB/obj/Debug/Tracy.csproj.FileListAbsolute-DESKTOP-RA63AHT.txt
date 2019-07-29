@@ -1,0 +1,98 @@
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.Form6.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\PQM\Trasy\MovieDB\obj\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\Interop.VBIDE.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy\MovieDB\obj\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\Interop.VBIDE.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\PQM\Tracy 2\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.exe
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.pdb
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\Interop.VBIDE.dll
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\LKBSDK.dll
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\Tracy.exe
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\Tracy.pdb
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.dll
+E:\Fujii\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.xml
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form5.resources
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form3.resources
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form1.resources
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+E:\Fujii\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.exe
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.pdb
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\Interop.VBIDE.dll
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\Tracy.exe
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\Tracy.pdb
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\qa28\Desktop\Tracy\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\qa28\Desktop\Tracy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\Interop.VBIDE.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\LKBSDK.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\Tracy.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\Tracy.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\bin\Debug\MathNet.Numerics.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\Tracy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.exe
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.pdb
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.csprojResolveAssemblyReference.cache
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.Form5.resources
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.Form3.resources
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.Form1.resources
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.Properties.Resources.resources
+C:\Users\mt-qc20\Desktop\Tracy\Tracy\MovieDB\obj\Debug\Tracy.csproj.GenerateResource.Cache

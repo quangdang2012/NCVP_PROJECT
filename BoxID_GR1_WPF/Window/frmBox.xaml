@@ -1,0 +1,45 @@
+﻿<Window x:Name="frmBox" x:Class="BoxID_GR1_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BoxID_GR1_WPF"
+        mc:Ignorable="d"
+        Title="BoxID" Height="602.267" Width="638.887" ResizeMode="NoResize">
+    <Grid x:Name="grid">
+        <DockPanel HorizontalAlignment="Left" Height="100" Margin="330,5,0,0" VerticalAlignment="Top" Width="250" Background="#FF89FF9C" LastChildFill="False"/>
+        <Label x:Name="label" Content="Print Date" HorizontalAlignment="Left" Margin="13,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Ship Date" HorizontalAlignment="Left" Margin="13,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy1" Content="Ship Status" HorizontalAlignment="Left" Margin="339,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy2" Content="Ship To" HorizontalAlignment="Left" Margin="339,41,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy3" Content="Invoice" HorizontalAlignment="Left" Margin="339,72,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="dtpPrintDate" HorizontalAlignment="Left" Margin="82,10,0,0" VerticalAlignment="Top" Width="145" FirstDayOfWeek="Monday"/>
+        <DatePicker x:Name="dtpShipDate" HorizontalAlignment="Left" Margin="82,43,0,0" VerticalAlignment="Top" Width="145"/>
+        <TextBox x:Name="txtShipStatus" HorizontalAlignment="Left" Height="23" Margin="407,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" CharacterCasing="Upper"/>
+        <TextBox x:Name="txtShipTo" HorizontalAlignment="Left" Height="23" Margin="407,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" CharacterCasing="Upper"/>
+        <TextBox x:Name="txtInvoice" HorizontalAlignment="Left" Height="23" Margin="407,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162" CharacterCasing="Upper"/>
+        <RadioButton x:Name="rdPrintDate" Content="" HorizontalAlignment="Left" Margin="232,15,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <RadioButton x:Name="rdShipDate" Content="" HorizontalAlignment="Left" Margin="232,47,0,0" VerticalAlignment="Top"/>
+        <DataGrid AutoGenerateColumns="False" Name="dgvBoxId" Height="403" Margin="9,0,10.6,9.8" VerticalAlignment="Bottom" HorizontalContentAlignment="Stretch" CanUserResizeColumns="False" CanUserSortColumns="False" CanUserReorderColumns="False" IsReadOnly="True" BorderBrush="{x:Null}" Background="#FFCEF3DA" Foreground="Black" OpacityMask="Red" GridLinesVisibility="None" CanUserResizeRows="False" SelectionUnit="Cell" SelectionMode="Single" SelectedCellsChanged="DgvBoxId_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Box ID" Binding="{Binding Path='boxid'}"/>
+                <DataGridTextColumn Header="Child Model" Binding="{Binding Path='child_model'}"/>
+                <DataGridTextColumn Header="User" Binding="{Binding Path='user_cd'}"/>
+                <DataGridTextColumn Header="Print Date" Binding="{Binding Path='printdate'}"/>
+                <DataGridTextColumn Header="Ship Date" Binding="{Binding Path='shipdate'}"/>
+                <DataGridTemplateColumn>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Name="btnOpen" Click="BtnOpen_Click">Open</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="80,118,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="BtnSearch_Click"/>
+        <Button x:Name="btnAddBoxID" Content="Add BoxID" HorizontalAlignment="Left" Margin="182,118,0,0" VerticalAlignment="Top" Width="104" Click="BtnAddBoxID_Click" Height="25"/>
+        <Button x:Name="btnShipmentHistory" Content="Shipment History" HorizontalAlignment="Left" Margin="314,118,0,0" VerticalAlignment="Top" Width="130" Foreground="#FF0523FF" FontWeight="Bold" Height="25" Click="BtnShipmentHistory_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="471,118,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="BtnCancel_Click"/>
+        <DockPanel HorizontalAlignment="Left" Height="425" LastChildFill="False" Margin="9,0,0,-0.2" VerticalAlignment="Bottom" Width="614" RenderTransformOrigin="0.516,0.512"/>
+    </Grid>
+</Window>

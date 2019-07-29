@@ -1,0 +1,14 @@
+﻿<Window x:Class="BoxID_GR1_WPF.frmHistory"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="Shipment History" Height="595.898">
+    <Grid Margin="0,0,-0.4,0.4">
+        <TextBox Name="txtSerial" Height="22" Width="230" TabIndex="132" Margin="0,0,406,509" HorizontalAlignment="Right" VerticalAlignment="Bottom" TextWrapping="Wrap" ></TextBox>
+        <Label Name="lblSerial" Height="25" Width="50" FontSize="11" FontFamily="Microsoft Sans Serif" TabIndex="131" Margin="0,0,641,506" HorizontalAlignment="Right" VerticalAlignment="Bottom" >Serial</Label>
+        <Button Name="btnExport" Height="34" Width="95" TabIndex="130" Click="btnExport_Click" Margin="0,0,146,504" HorizontalAlignment="Right" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.512" >Excel Export</Button>
+        <Button Name="btnBack" Height="34" Width="95" TabIndex="129" Click="btnBack_Click" Margin="0,0,25,504" HorizontalAlignment="Right" VerticalAlignment="Bottom" >Back</Button>
+        <DataGrid Name="dgvHistory" Height="479" Width="762" Margin="0,0,-0.4,0" HorizontalAlignment="Right" VerticalAlignment="Bottom" >
+            <DataGrid.Columns></DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿<Application x:Class="BoxID_GR1_WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BoxID_GR1_WPF"
+             StartupUri="Window/frmBox.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

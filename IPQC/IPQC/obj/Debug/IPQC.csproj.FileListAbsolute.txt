@@ -1,0 +1,44 @@
+D:\IPQC\IPQC\bin\Debug\IPQC.exe.config
+D:\IPQC\IPQC\obj\Debug\IPQC.frmHioki.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmManual.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmPushPull.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmScale.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmItem.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmItemMaster.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.frmLogin.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.Properties.Resources.resources
+D:\IPQC\IPQC\obj\Debug\IPQC.csproj.GenerateResource.Cache
+D:\IPQC\IPQC\obj\Debug\IPQC.csproj.ResolveComReference.cache
+D:\IPQC\IPQC\bin\Debug\IPQC.exe
+D:\IPQC\IPQC\bin\Debug\IPQC.pdb
+D:\IPQC\IPQC\bin\Debug\Npgsql.dll
+D:\IPQC\IPQC\obj\Debug\IPQC.exe
+D:\IPQC\IPQC\obj\Debug\IPQC.pdb
+D:\IPQC\IPQC\bin\Debug\IPQC.exe.manifest
+D:\IPQC\IPQC\bin\Debug\IPQC.application
+D:\IPQC\IPQC\obj\Debug\IPQC.csprojResolveAssemblyReference.cache
+D:\IPQC\IPQC\obj\Debug\IPQC.exe.manifest
+D:\IPQC\IPQC\obj\Debug\IPQC.application
+D:\GIT HUB\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.exe.config
+D:\GIT HUB\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.csproj.ResolveComReference.cache
+D:\GIT HUB\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.exe
+D:\GIT HUB\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.pdb
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.exe.config
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.csproj.ResolveComReference.cache
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.exe
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.pdb
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmHioki.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmManual.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmPushPull.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmScale.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmItem.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmItemMaster.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.frmLogin.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.Properties.Resources.resources
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.csproj.GenerateResource.Cache
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.exe.manifest
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.application
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.exe
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\bin\Debug\IPQC.pdb
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.exe.manifest
+D:\NCVP_GIT\NCVP_PROJECT\IPQC\IPQC\obj\Debug\IPQC.application
