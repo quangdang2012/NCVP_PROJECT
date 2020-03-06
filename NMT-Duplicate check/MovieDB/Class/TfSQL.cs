@@ -78,5 +78,25 @@ namespace JigQuick
                 connection.Close();
             }
         }
+
+        public bool CheckTableExist(string tableName)
+        {
+            NpgsqlConnection connection = new NpgsqlConnection(conStringTesterDb);
+            string cmd = "SELECT EXISTS (SELECT * FROM " + tableName + ")";
+            NpgsqlCommand command = new NpgsqlCommand(cmd, connection);
+            connection.Open();
+            try
+            {
+                int result = command.ExecuteNonQuery();
+                connection.Close();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                //MessageBox.Show(ex.Message);
+                connection.Close();
+                return false;
+            }
+        }
     }
 }

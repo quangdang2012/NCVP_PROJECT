@@ -140,3 +140,18 @@ D:\GIT\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.pdb
 D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csprojAssemblyReference.cache
 D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CoreCompileInputs.cache
 D:\GIT_HUB\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.CopyComplete
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.config
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe.manifest
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.application
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.exe
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\NMT Check.pdb
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\Npgsql.dll
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.TrustInfo.xml
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe.manifest
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.application
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.exe
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\obj\Debug\NMT Check.pdb
+D:\GIT\DangKhoa\NCVP_PROJECT\NMT-Duplicate check\MovieDB\bin\Debug\Mono.Security.dll

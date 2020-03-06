@@ -140,7 +140,18 @@ namespace JigQuick
             headTableThisMonth = model.ToLower() + DateTime.Today.ToString("yyyyMM");
             headTableLastMonth = model.ToLower() + ((VBS.Right(DateTime.Today.ToString("yyyyMM"), 2) != "01") ?
                 (long.Parse(DateTime.Today.ToString("yyyyMM")) - 1).ToString() : (long.Parse(DateTime.Today.ToString("yyyy")) - 1).ToString() + "12");
-
+            TfSQL tf = new TfSQL();
+            try
+            {
+                if (!tf.CheckTableExist(headTableLastMonth))
+                {
+                    headTableLastMonth = headTableThisMonth;
+                }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
             // ‹ó•¶š‚Ìê‡A‚Ü‚½‚Í•¶š—ñ‚Ì’·‚³‚ªŒë‚Á‚Ä‚¢‚éê‡‚ÍAˆ—‚µ‚È‚¢
             if (txtProduct.Text == string.Empty) return;
             //if (txtChild.Text.Length != 17 && txtChild.Text.Length != 24) return;

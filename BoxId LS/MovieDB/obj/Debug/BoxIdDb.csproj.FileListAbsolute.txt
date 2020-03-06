@@ -497,3 +497,4 @@ D:\GIT_HUB\NCVP_PROJECT\BoxId LS\MovieDB\obj\Debug\BoxIdDB.application
 D:\GIT_HUB\NCVP_PROJECT\BoxId LS\MovieDB\obj\Debug\BoxIdDb.csprojAssemblyReference.cache
 D:\GIT_HUB\NCVP_PROJECT\BoxId LS\MovieDB\obj\Debug\BoxIdDb.csproj.CoreCompileInputs.cache
 D:\GIT_HUB\NCVP_PROJECT\BoxId LS\MovieDB\obj\Debug\BoxIdDb.csproj.CopyComplete
+D:\GIT\DangKhoa\NCVP_PROJECT\BoxId LS\MovieDB\obj\Debug\BoxIdDb.csproj.ResolveComReference.cache
